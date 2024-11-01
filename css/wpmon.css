@@ -1,0 +1,35 @@
+.snapshot-location, .wpmon-monitor
+{
+	border: 1px solid #333333;
+	border-radius: 4px;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+table.wpmon-snapshot, table.wpmon-monitor-summary
+{
+	width: 100%;
+}
+
+.wpmon-snapshot thead, .wpmon-monitor thead
+{
+	background-color: #666666;
+	color: #dddddd;
+}
+
+td.OK
+{
+	background: green;
+	color: white;
+}
+
+td.NOK
+{
+	background: red;
+	color: white;
+}
+
+td.right
+{
+	text-align: right;
+}

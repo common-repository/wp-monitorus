@@ -1,0 +1,11 @@
+#get-api-key, #error, #success
+{
+	display: none;
+}
+
+.loading-ajax
+{
+	vertical-align: middle;
+}
+
+
